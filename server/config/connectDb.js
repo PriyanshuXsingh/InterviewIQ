@@ -9,8 +9,8 @@ const connectDb = async () => {
        
     console.error("Full Error:", error);
     console.error("Name:", error.name);
-    console.error("Message:", error.message);
-    console.error("Cause:", error.cause);
+    console.error("Messages:", error.message);
+    
 }
     }
 
