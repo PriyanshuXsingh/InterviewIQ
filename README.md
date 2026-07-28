@@ -160,18 +160,23 @@ Performance Report
 
 <img width="1712" height="837" alt="image" src="https://github.com/user-attachments/assets/3d9daf32-17ec-4c5c-8b9b-00e52deab557" />
 
+<img width="1540" height="860" alt="image" src="https://github.com/user-attachments/assets/d80e6c5c-1527-4aec-897e-bde75080731a" />
 
 ---
 
 ### Interview
 
-Add screenshot here
+<img width="1537" height="783" alt="image" src="https://github.com/user-attachments/assets/d973370b-5a9c-40d7-8224-48f88c51705c" />
+
+<img width="1807" height="856" alt="image" src="https://github.com/user-attachments/assets/0d184427-092b-4ab7-8ac6-50e9a825062c" />
+
 
 ---
 
 ### Report
 
-Add screenshot here
+<img width="1847" height="866" alt="image" src="https://github.com/user-attachments/assets/52e1b4f0-bfdb-47c2-9af1-235f4edd0770" />
+
 
 ---
 
